@@ -10,7 +10,7 @@ Proyek ini menampilkan data mahasiswa dari file `data.json` ke dalam tabel Boots
 
 ## Cara Menjalankan
 
-1. Buka folder proyek `tugas1`.
+1. Buka folder proyek `tugas1_individu_wad05`.
 2. Jalankan dengan local server (misalnya VS Code Live Server) agar `fetch("data.json")` bisa dibaca browser.
 3. Buka halaman `index.html`.
 
