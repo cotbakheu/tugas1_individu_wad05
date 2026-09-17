@@ -1,0 +1,37 @@
+[
+  {
+    "name": "John Doe",
+    "id": "123456",
+    "major": "Computer Science"
+  },
+  {
+    "name": "Jane Smith",
+    "id": "789012",
+    "major": "Mathematics"
+  },
+  {
+    "name": "Michael Johnson",
+    "id": "345678",
+    "major": "Physics"
+  },
+  {
+    "name": "Emily Davis",
+    "id": "901234",
+    "major": "Chemistry"
+  },
+  {
+    "name": "David Wilson",
+    "id": "567890",
+    "major": "Biology"
+  },
+  {
+    "name": "Sarah Anderson",
+    "id": "234567",
+    "major": "History"
+  },
+  {
+    "name": "Daniel Thompson",
+    "id": "890123",
+    "major": "Economics"
+  }
+]
